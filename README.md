@@ -6,4 +6,4 @@ The project typically involves collecting, cleaning, and transforming HR data fr
 Data encompassed the key indicators such as Employee salary, Employee satisfaction data, Employee-relationship satisfaction data etc.
 This project provides future insights of how to reduce the Attrition rate in the company.
 
-PDF Link: https://drive.google.com/file/d/1HkvrA_0WE6lGU45zURo8myVgRkh0QJda/view?usp=drive_link
+PDF Link: https://drive.google.com/file/d/14A7OA7SIuYskPUypCfusySv_RYo1FkkZ/view?usp=sharing
